@@ -53,4 +53,4 @@ verwenden.
 
 Folgendes Klassendigramm in `UML` stellt die Architektur des Programms dar. Die Übersicht ist nur vorläufig und kann sich noch ändern, sollte aber im Prinzip eingehalten werden.
 
-<img src="Overview.svg" alt="UML-Diagramm der Programmarchitektur" title="UML-Diagramm der Programmarchitektur">
+<img src="iot-speechprocessing/iot-speechprocessing/Overview.svg" alt="UML-Diagramm der Programmarchitektur" title="UML-Diagramm der Programmarchitektur">
